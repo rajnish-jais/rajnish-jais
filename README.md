@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer · Go · Kubernetes · Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajnish-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/rajnish-kumar](https://www.linkedin.com/in/rajnish-kumar-594752a5)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=rajnish-jais&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
@@ -30,17 +30,17 @@ Outside of work I contribute to open source — primarily in the CNCF ecosystem.
 
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby on Rails-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby on Rails-3178C6?style=flat-square&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-425CC7?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white"/>
   <img src="https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tilt-FFA500?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Git-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-61DAFB?style=flat-square&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-3178C6?style=flat-square&logo=kafka&logoColor=white"/>
 </p>
 
 ---
