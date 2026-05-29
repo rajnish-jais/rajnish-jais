@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer · Go · Kubernetes · Distributed Systems</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/rajnish-kumar](https://www.linkedin.com/in/rajnish-kumar-594752a5)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rajnish-kumar-594752a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=rajnish-jais&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
