@@ -50,8 +50,8 @@ Outside of work I contribute to open source — primarily in the CNCF ecosystem.
 | Project | Contribution |
 |---|---|
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | [scrape: add `dns_refresh_interval` to periodically re-resolve FQDN targets](https://github.com/prometheus/prometheus/pull/18827) |
-| [tektoncd/pipeline](https://github.com/tektoncd/pipeline) | [Inject traceID/spanID into reconciler log output](https://github.com/tektoncd/pipeline/pull/10135) |
-| [volcano-sh/kthena](https://github.com/volcano-sh/kthena) | Configurable metrics update interval, graceful shutdown improvements |
+| [tektoncd/pipeline](https://github.com/tektoncd/pipeline) | [Inject traceID/spanID into reconciler log output](https://github.com/tektoncd/pipeline/pull/10140) |
+| [volcano-sh/kthena](https://github.com/volcano-sh/kthena) | [Configurable metrics update interval, graceful shutdown improvements](https://github.com/volcano-sh/kthena/pull/1151) |
 
 ---
 
