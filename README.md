@@ -22,7 +22,7 @@ Outside of work I contribute to open source — primarily in the CNCF ecosystem.
 
 - **CloudBees Platform** — 55+ Go microservices on Kubernetes; gRPC-first architecture with OpenTelemetry tracing
 - **Edge Runner** — on-prem workflow execution bridging enterprise private cloud with cloud orchestration
-- **Open Source** — contributor to [Docker/Moby](https://github.com/moby/moby), [Tekton Pipelines](https://github.com/tektoncd/pipeline), [Volcano](https://github.com/volcano-sh/kthena), and [Prometheus](https://github.com/prometheus/prometheus)
+- **Open Source** — contributor to [Docker/Moby](https://github.com/moby/moby), [Tekton Pipelines](https://github.com/tektoncd/pipeline), , [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib),  [Prometheus](https://github.com/prometheus/prometheus), and [Volcano](https://github.com/volcano-sh/kthena).
 
 ---
 
@@ -49,6 +49,7 @@ Outside of work I contribute to open source — primarily in the CNCF ecosystem.
 
 | Project | Contribution |
 |---|---|
+| [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | [rename type to splunk_enterprise with deprecated alias splunkenterprise](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/49034) |
 | [moby/moby](https://github.com/moby/moby) | [test/docker-py: re-enable test_run_with_networking_config](https://github.com/moby/moby/pull/52758) |
 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | [scrape: add `dns_refresh_interval` to periodically re-resolve FQDN targets](https://github.com/prometheus/prometheus/pull/18827) |
 | [tektoncd/pipeline](https://github.com/tektoncd/pipeline) | [Inject traceID/spanID into reconciler log output](https://github.com/tektoncd/pipeline/pull/10140) |
