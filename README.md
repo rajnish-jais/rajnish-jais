@@ -49,11 +49,11 @@ Outside of work I contribute to open source — primarily in the CNCF ecosystem.
 
 | Project | Contribution |
 |---|---|
-| [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | [rename type to splunk_enterprise with deprecated alias splunkenterprise](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/49034) |
-| [moby/moby](https://github.com/moby/moby) | [test/docker-py: re-enable test_run_with_networking_config](https://github.com/moby/moby/pull/52758) |
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | [scrape: add `dns_refresh_interval` to periodically re-resolve FQDN targets](https://github.com/prometheus/prometheus/pull/18827) |
-| [tektoncd/pipeline](https://github.com/tektoncd/pipeline) | [Inject traceID/spanID into reconciler log output](https://github.com/tektoncd/pipeline/pull/10140) |
-| [volcano-sh/kthena](https://github.com/volcano-sh/kthena) | [Configurable metrics update interval, graceful shutdown improvements](https://github.com/volcano-sh/kthena/pull/1151) |
+| [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | [Merged Pull Requests](https://github.com/open-telemetry/opentelemetry-collector-contrib/pulls?q=is%3Apr+author%3Arajnish-jais+is%3Aclosed) |
+| [moby/moby](https://github.com/moby/moby) | [Merged Pull Requests](https://github.com/moby/moby/pulls?q=is%3Apr+is%3Aclosed+author%3Arajnish-jais) |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | [Merged Pull Requests](https://github.com/prometheus/prometheus/pulls/rajnish-jais) |
+| [tektoncd/pipeline](https://github.com/tektoncd/pipeline) | [Merged Pull Requests](https://github.com/tektoncd/pipeline/pulls?q=is%3Apr+author%3Arajnish-jais+is%3Aclosed) |
+| [volcano-sh/kthena](https://github.com/volcano-sh/kthena) | [Merged Pull Requests](https://github.com/volcano-sh/kthena/pulls?q=is%3Apr+is%3Aclosed+author%3Arajnish-jais) |
 
 ---
 
